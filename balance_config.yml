@@ -1,0 +1,9 @@
+folders:
+  - labeled_images/
+  - annotations/fernsehturm/
+  - annotations/funkturm/
+  - annotations/reichstag/
+  - annotations/rotesrathaus/
+output: balanced_dataset/
+include_none: false
+size_per_category: 100
