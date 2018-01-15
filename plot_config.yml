@@ -1,0 +1,3 @@
+input_file: <logfile>
+output: train_plots/
+save_plots: true
