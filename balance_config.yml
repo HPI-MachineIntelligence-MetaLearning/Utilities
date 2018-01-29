@@ -7,3 +7,4 @@ folders:
 output: balanced_dataset/
 include_none: false
 size_per_category: 100
+train_size: 0.8
